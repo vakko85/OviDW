@@ -92,6 +92,7 @@ h2{
   padding: 20px 20px;
   box-sizing: border-box;
   margin: auto;
+  text-align:justify; 
 }
 
 .menu{
@@ -169,5 +170,15 @@ h2{
 text-align: center;
 
 }
+.enlace li {
+  list-style-type: none;
+}
 
-
+td {
+  border:1px solid black;
+  text-align: center;
+}
+ table {
+border-collapse: collapse;
+text-align: center;
+ }
