@@ -119,6 +119,20 @@ h2{
   transition: all 300ms;
 
 }
+.submenu  {
+  
+  position: absolute;
+  top: 15rem;
+  left: 15rem;
+  list-style-type: none;
+  display: flex;
+
+
+}
+.submenu >li{
+  padding: 1rem;
+
+}
 
 /*formulario boletin */
 #boletin{
